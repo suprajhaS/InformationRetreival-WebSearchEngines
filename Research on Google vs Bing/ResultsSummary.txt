@@ -1,0 +1,36 @@
+                                 			Queries 
+Navigational Queries-
+Faculty:
+1.Scott Bice Gould
+2. Hilary Schor Gould
+3. Rebecca Brown Gould
+
+Departments:
+1. Business Law Program, Gould
+2. Entertainment and Technology Law Program, Gould
+3. Alternative Dispute Resolution Program, Gould
+
+School Location:
+Gould USC map
+
+Founder:
+James Gould
+
+Alumini:
+USC Gould Alumni
+
+Informational Queries-
+
+USC JD degree requirements
+USC LLM Degree requirements
+USC MCL degree requirements
+
+Query with no overlap:
+Biggest donors USC Gould
+
+RQ1: Which search engine performs best when considering the first 10 results for a given query?
+Ans :	From my observations, I concluded that Google performs much better than Bing for navigation queries and informational queries.
+	
+RQ2: Is there a difference in relevance between the search engines when considering informational queries and navigational queries, respectively?
+Ans :	Yes. For navigational queries, Google had a relevance of 100% while Bing had a relevance of 77.8%
+	For informational queries, Google had a relevance of 80%, but Bing had a relevance of 50%. 
